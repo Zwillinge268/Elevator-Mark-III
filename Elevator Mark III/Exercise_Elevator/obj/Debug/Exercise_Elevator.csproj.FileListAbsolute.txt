@@ -1,0 +1,30 @@
+C:\Users\Zwillinge\Pictures\Exercise_Elevator\Exercise_Elevator\bin\Debug\Exercise_Elevator.exe.config
+C:\Users\Zwillinge\Pictures\Exercise_Elevator\Exercise_Elevator\bin\Debug\Exercise_Elevator.exe
+C:\Users\Zwillinge\Pictures\Exercise_Elevator\Exercise_Elevator\bin\Debug\Exercise_Elevator.pdb
+C:\Users\Zwillinge\Pictures\Exercise_Elevator\Exercise_Elevator\obj\Debug\Exercise_Elevator.csproj.AssemblyReference.cache
+C:\Users\Zwillinge\Pictures\Exercise_Elevator\Exercise_Elevator\obj\Debug\Exercise_Elevator.Form1.resources
+C:\Users\Zwillinge\Pictures\Exercise_Elevator\Exercise_Elevator\obj\Debug\Exercise_Elevator.Properties.Resources.resources
+C:\Users\Zwillinge\Pictures\Exercise_Elevator\Exercise_Elevator\obj\Debug\Exercise_Elevator.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Pictures\Exercise_Elevator\Exercise_Elevator\obj\Debug\Exercise_Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Pictures\Exercise_Elevator\Exercise_Elevator\obj\Debug\Exercise_Elevator.exe
+C:\Users\Zwillinge\Pictures\Exercise_Elevator\Exercise_Elevator\obj\Debug\Exercise_Elevator.pdb
+C:\Users\Zwillinge\Pictures\Elevator Mark II\Exercise_Elevator\bin\Debug\Exercise_Elevator.exe.config
+C:\Users\Zwillinge\Pictures\Elevator Mark II\Exercise_Elevator\bin\Debug\Exercise_Elevator.exe
+C:\Users\Zwillinge\Pictures\Elevator Mark II\Exercise_Elevator\bin\Debug\Exercise_Elevator.pdb
+C:\Users\Zwillinge\Pictures\Elevator Mark II\Exercise_Elevator\obj\Debug\Exercise_Elevator.csproj.AssemblyReference.cache
+C:\Users\Zwillinge\Pictures\Elevator Mark II\Exercise_Elevator\obj\Debug\Exercise_Elevator.Form1.resources
+C:\Users\Zwillinge\Pictures\Elevator Mark II\Exercise_Elevator\obj\Debug\Exercise_Elevator.Properties.Resources.resources
+C:\Users\Zwillinge\Pictures\Elevator Mark II\Exercise_Elevator\obj\Debug\Exercise_Elevator.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Pictures\Elevator Mark II\Exercise_Elevator\obj\Debug\Exercise_Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Pictures\Elevator Mark II\Exercise_Elevator\obj\Debug\Exercise_Elevator.exe
+C:\Users\Zwillinge\Pictures\Elevator Mark II\Exercise_Elevator\obj\Debug\Exercise_Elevator.pdb
+C:\Users\Zwillinge\Pictures\Elevator Mark III\Exercise_Elevator\obj\Debug\Exercise_Elevator.csproj.AssemblyReference.cache
+C:\Users\Zwillinge\Pictures\Elevator Mark III\Exercise_Elevator\obj\Debug\Exercise_Elevator.Form1.resources
+C:\Users\Zwillinge\Pictures\Elevator Mark III\Exercise_Elevator\obj\Debug\Exercise_Elevator.Properties.Resources.resources
+C:\Users\Zwillinge\Pictures\Elevator Mark III\Exercise_Elevator\obj\Debug\Exercise_Elevator.csproj.GenerateResource.cache
+C:\Users\Zwillinge\Pictures\Elevator Mark III\Exercise_Elevator\obj\Debug\Exercise_Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Zwillinge\Pictures\Elevator Mark III\Exercise_Elevator\obj\Debug\Exercise_Elevator.exe
+C:\Users\Zwillinge\Pictures\Elevator Mark III\Exercise_Elevator\obj\Debug\Exercise_Elevator.pdb
+C:\Users\Zwillinge\Pictures\Elevator Mark III\Exercise_Elevator\bin\Debug\Exercise_Elevator.exe.config
+C:\Users\Zwillinge\Pictures\Elevator Mark III\Exercise_Elevator\bin\Debug\Exercise_Elevator.exe
+C:\Users\Zwillinge\Pictures\Elevator Mark III\Exercise_Elevator\bin\Debug\Exercise_Elevator.pdb
